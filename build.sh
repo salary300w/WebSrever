@@ -17,4 +17,4 @@ cmake ..
  
 make -j
 
-mv WebServer ../
+sudo ./WebServer
